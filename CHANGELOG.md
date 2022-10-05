@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.4](https://github.com/googleapis/java-dataform/compare/v0.2.3...v0.2.4) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([175c7f5](https://github.com/googleapis/java-dataform/commit/175c7f57a58a6d1fecb2c429a7d3c3bacf0073e4))
+
 ## [0.2.3](https://github.com/googleapis/java-dataform/compare/v0.2.2...v0.2.3) (2022-10-03)
 
 
