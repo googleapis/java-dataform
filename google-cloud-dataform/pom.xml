@@ -11,7 +11,7 @@
   <parent>
     <groupId>com.google.cloud</groupId>
     <artifactId>google-cloud-dataform-parent</artifactId>
-    <version>0.2.5-SNAPSHOT</version><!-- {x-version-update:google-cloud-dataform:current} -->
+    <version>0.3.0</version><!-- {x-version-update:google-cloud-dataform:current} -->
   </parent>
   <properties>
     <site.installationModule>google-cloud-dataform</site.installationModule>
