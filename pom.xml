@@ -89,7 +89,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>proto-google-cloud-dataform-v1alpha2</artifactId>
-        <version>0.2.5-SNAPSHOT</version><!-- {x-version-update:proto-google-cloud-dataform-v1alpha2:current} -->
+        <version>0.3.0</version><!-- {x-version-update:proto-google-cloud-dataform-v1alpha2:current} -->
       </dependency>
 
       <dependency>
